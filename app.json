@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Animaciones Interactivas",
+    "slug": "expo-animaciones-interactivas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B1020"
+    },
+    "android": {
+      "package": "com.ejemplo.animacionesinteractivas"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ejemplo.animacionesinteractivas"
+    }
+  }
+}
